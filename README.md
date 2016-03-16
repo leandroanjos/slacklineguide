@@ -1,2 +1,2 @@
-# slacklineguide
- Web application developed to show the different types of tricks practiced in Slackline
+# Slackline Guide
+ Web application developed to show the different types of tricks practiced in Slackline.
